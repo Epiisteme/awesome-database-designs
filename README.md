@@ -6,3 +6,4 @@ Awesome Archive of Database Designs
 
 ## Security
 - https://www.tripwire.com/state-of-security/featured/database-security-best-practices-you-should-know/
+- https://www.section.io/engineering-education/enryption-in-mongodb/
